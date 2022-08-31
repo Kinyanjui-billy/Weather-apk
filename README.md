@@ -37,7 +37,7 @@ In Ubuntu`s case you may download it from microsoft store
 * Vanilla tilt.js library
 * OpenWeatherMap & OpenCageData API
 
-WAYS TO CONTACT ME:
+## CONTACT ME:
 E-MAIL: kinyanjuibully5@gmail.com
    
 ### License
