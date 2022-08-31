@@ -1,8 +1,8 @@
 # Weather-apk
 
-<h1>Authored by Billy Kinyanjui</h1>
+<h3>Authored by Billy Kinyanjui</h3>
 
-<h2> Summary</h2>
+<h1> Summary</h1>
 
 This will include what a user needs to know in order to run this;
 *An introduction to what the project is about.
