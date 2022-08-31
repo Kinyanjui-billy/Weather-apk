@@ -12,8 +12,11 @@ and fire up the Local Development server using Live Server extension.
 
 It is suppoerted by Windows server
 
-####Requiremnts:
+###Requiremnts:
+
 =>A terminal based machine
+=>This can be either linux or windows based
+
 ### Built With
 
 * HTML & CSS
