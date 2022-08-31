@@ -11,6 +11,8 @@ git clone git@github.com:Kinyanjui-billy/Weather-apk.git
 and fire up the Local Development server using Live Server extension.
 
 It is suppoerted by Windows server
+
+####Requiremnts:
 ### Built With
 
 * HTML & CSS
