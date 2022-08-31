@@ -7,7 +7,10 @@ Installation
 To get a local copy up and running, just Clone the repo
 
 git clone git@github.com:Kinyanjui-billy/Weather-apk.git
+
 and fire up the Local Development server using Live Server extension.
+
+It is suppoerted by Windows server
 ### Built With
 
 * HTML & CSS
