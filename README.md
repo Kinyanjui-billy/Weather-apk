@@ -22,6 +22,8 @@ nothing you can`t achieve.
 ### Having a Minimu Viable Specification
 This means you need to have a clear path to what you need to do to get done including ways to solve errors,the name of the idea,a description of the problem statement and a statement of the output we expect from this specification.
 
+Finally we have the concept of why we are doing this, the goal(as described above),the output and how we will do it.
+
 ### JUST BUILD AND FIGURE IT OUT LATER
 This is a viable technique used to administer good workflow meaning , you create what yiu are thinking about then later finding out its purpose. On the contrary, waiting and strategising is important but could bring unforseen events such as delivering a project late or even playing what they call a "Whack-a-Mole".
 
