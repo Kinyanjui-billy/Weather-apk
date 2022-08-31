@@ -6,7 +6,7 @@ A simple and responsive Weather web app built using HTML, CSS and Javascript. It
 Installation
 To get a local copy up and running, just Clone the repo
 
-git clone 
+git clone git@github.com:Kinyanjui-billy/Weather-apk.git
 and fire up the Local Development server using Live Server extension.
 ### Built With
 
