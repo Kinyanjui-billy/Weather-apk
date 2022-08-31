@@ -19,6 +19,8 @@ and idealy as a human being is quite important. Again find out more....
 ### What is the big goal?
 The big goal is to build great products and services. When you have the right tools and process with a driven mindset plus a great support team, there is 
 nothing you can`t achieve.
+### Having a Minimu Viable Specification
+This means you need to have a clear path to what you need to do to get done including ways to solve errors,the name of the idea,a description of the problem statement and a statement of the output we expect from this specification.
 
 ### JUST BUILD AND FIGURE IT OUT LATER
 This is a viable technique used to administer good workflow meaning , you create what yiu are thinking about then later finding out its purpose. On the contrary, waiting and strategising is important but could bring unforseen events such as delivering a project late or even playing what they call a "Whack-a-Mole".
