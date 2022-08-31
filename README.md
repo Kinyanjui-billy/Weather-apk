@@ -15,7 +15,7 @@ It is suppoerted by Windows server
 ###Requiremnts:
 
 =>A terminal based machine
-=>This can be either linux or windows based
+=>This can be either linux or windows based meaning (ubuntu or powershell wich both can run on windows)
 
 ### Built With
 
