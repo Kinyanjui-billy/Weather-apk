@@ -16,7 +16,7 @@ It is suppoerted by Windows server
 
 =>A terminal based machine
 =>This can be either linux or windows based meaning (ubuntu or powershell wich both can run on windows)
-
+In Ubuntu`s 
 ### Built With
 
 * HTML & CSS
