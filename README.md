@@ -16,7 +16,12 @@ If you have never read about the Abilene Paradox,go read about it. Bringing this
 people don`t speak out what they need or declare rather the outcome is a result of flaws and misconceptions.What does this steach us? Expression as a person
 and idealy as a human being is quite important. Again find out more....
 
-JUST BUILD AND FIGURE IT OUT LATER- this is a viable technique used to administer good workflow meaning , you create what yiu are thinking about then later finding out its purpose. On the contrary, waiting and strategising is important but could bring unforseen events such as delivering a project late or even playing what they call a "Whack-a-Mole".
+### What is the big goal?
+The big goal is to build great products and services. When you have the right tools and process with a driven mindset plus a great support team, there is 
+nothing you can`t achieve.
+
+### JUST BUILD AND FIGURE IT OUT LATER
+This is a viable technique used to administer good workflow meaning , you create what yiu are thinking about then later finding out its purpose. On the contrary, waiting and strategising is important but could bring unforseen events such as delivering a project late or even playing what they call a "Whack-a-Mole".
 
 ## INTRODUCTION
 
