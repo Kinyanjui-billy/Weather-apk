@@ -18,7 +18,8 @@ It is suppoerted by Windows server
 * Vanilla tilt.js library
 * OpenWeatherMap & OpenCageData API
 
-WAYS TO CONTACT ME
+WAYS TO CONTACT ME:
+E-MAIL: kinyanjuibully5@gmail.com
    
 ### License
 
